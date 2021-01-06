@@ -94,8 +94,11 @@ playing this CTF are recognizing formats, encoding, ways of encoding.
 ## Requirements
 
 Windows 10 64bit OS / Kali Linux
+
 Internet Connection
+
 Basic ethical hacking knowledge
+
 Stegnography / crypto Tools
 
 
