@@ -1,6 +1,39 @@
 # Catch-The-Fish
 Capture The Flag (CTF) Hacking
 
+## Introduction
+A CTF (Capture The Flag) is a competition that takes major disciplines of
+information security and makes them into smaller, objectively measurable
+exercises. Participants may attempt to solve challenges by solving, exploiting,
+or breaking. This CTF event mainly focus on vulnerability assessment and
+penetration testing skills.
+Jeopardy, Attack defend and mixed are the types of CTFs.
+In Jeopardy there are puzzles and we have to solve the puzzle to acquire the
+toke or the flag. The flag may be hidden inside the text file, folders, or images
+etc. These challenges may include OWASP Top 10 vulnerabilities, or any other
+misconfiguration.
+Attack defend type focuses on either attacking the opposite side or defending
+the own.
+The combination of both attack defend and Jeopardy is known as the mixed
+type of CTF.
+Further we can categorize CTF as web, forensics, miscellaneous, networking,
+reversing, pwn/exploit. CTF challenges may cover many viewpoints of cyber
+security such as reverse engineering, binary analysis, mobile security etc.
+Computer security students can have benefit from applying security tools and
+defend vulnerable systems. Working on pre-defined hacking challenges gives
+common practice on security education. CTF challenges may help us to gain
+the ability to vulnerability scanning and pen testing. 
+
+## Architecture
+Catch the Fish (CTF) game has 10 unique levels which needs to be think
+creative and capture the relevant flag as the key to the next level. Sometimes
+the Flag will be a password, a Hint or might be a motivational quote.
+First five levels we counted as easy Levels then from 6 to 8 as Medium Levels
+and Final two as Hard Level tasks.
+
+
+
+
 ![1](https://user-images.githubusercontent.com/49120359/103748317-f2a96100-5029-11eb-8f1e-2ab8a9ab8f7b.PNG)
 ![2](https://user-images.githubusercontent.com/49120359/103748324-f806ab80-5029-11eb-8dc6-f62ad8eb7b02.PNG)
 ![3](https://user-images.githubusercontent.com/49120359/103748334-fb019c00-5029-11eb-9f9c-beed4bda6cbe.PNG)
