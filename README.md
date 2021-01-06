@@ -38,6 +38,47 @@ and Final two as Hard Level tasks.
 
 ## Drill Plan
 
+![dril](https://user-images.githubusercontent.com/49120359/103752155-57b38580-502f-11eb-8d70-2d9d37f8ce6f.PNG)
+
+*User Enters the interface which the levels are available in the web
+view. For each and every level, we planned to create separate web
+pages with relevant bounty holes.
+
+*To pass a level, user need to submit the previous flag at the
+beginning. For an example, User need to know enter level 01 flag to
+enter the level 02.
+
+*For the Forensic Level, User has to download the relevant
+document and crack by a tool which user chooses. 
+
+*For the shell type Levels, we have planned to give Kali Linux VM
+image with relevant tools to exploit the relevant programs.
+
+
+## Theme Audience
+
+**Theme
+
+ Here the player who own the fish may win the game. They
+may windup each level by catching up the fish. In each level the players have
+to change the fishing tackle. First five levels are known as Shallow End Zone.
+In the shallow end zone we have planned to create few freely accessible
+levels with basic fundamentals of information security and forensic. Medium
+zone changes and challenger deep zone challenges are created with a wide
+rage of categories in forensic. Medium zone catching and challenger deeper catching are pain options. According to the fishing law rule, players cannot
+access to the fishing zones as their wish. 
+
+**Audience
+
+Here our main target is to measure the forensic knowledge of internship
+candidates in cyber security related organizations. Before entering as an
+intern an individual has to face a technological exam. Catch The Fish is used
+to measure the knowledge of each trainer. We have lined up each level from
+very easy level to difficult level. It is easy to measure up the trainer’s
+knowledge by looking at the number of levels he/she has completed.
+This contain 10 levels which are different to each other. Skills you may get by
+playing this CTF are recognizing formats, encoding, ways of encoding. 
+
 
 ![1](https://user-images.githubusercontent.com/49120359/103748317-f2a96100-5029-11eb-8f1e-2ab8a9ab8f7b.PNG)
 ![2](https://user-images.githubusercontent.com/49120359/103748324-f806ab80-5029-11eb-8dc6-f62ad8eb7b02.PNG)
