@@ -70,8 +70,8 @@ access to the fishing zones as their wish.
 
 **Audience**
 
-Here our main target is to measure the forensic knowledge of internship
-candidates in cyber security related organizations. Before entering as an
+Here our main target is to measure the **forensic knowledge** of **internship
+candidates in cyber security related organizations**. Before entering as an
 intern an individual has to face a technological exam. Catch The Fish is used
 to measure the knowledge of each trainer. We have lined up each level from
 very easy level to difficult level. It is easy to measure up the trainer’s
