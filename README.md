@@ -57,7 +57,7 @@ image with relevant tools to exploit the relevant programs.
 
 ## Theme Audience
 
-**Theme
+**Theme**
 
  Here the player who own the fish may win the game. They
 may windup each level by catching up the fish. In each level the players have
@@ -68,7 +68,7 @@ zone changes and challenger deep zone challenges are created with a wide
 rage of categories in forensic. Medium zone catching and challenger deeper catching are pain options. According to the fishing law rule, players cannot
 access to the fishing zones as their wish. 
 
-**Audience
+**Audience**
 
 Here our main target is to measure the forensic knowledge of internship
 candidates in cyber security related organizations. Before entering as an
@@ -78,6 +78,10 @@ very easy level to difficult level. It is easy to measure up the trainer’s
 knowledge by looking at the number of levels he/she has completed.
 This contain 10 levels which are different to each other. Skills you may get by
 playing this CTF are recognizing formats, encoding, ways of encoding. 
+
+## Budget
+
+
 
 
 ![1](https://user-images.githubusercontent.com/49120359/103748317-f2a96100-5029-11eb-8f1e-2ab8a9ab8f7b.PNG)
